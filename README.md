@@ -14,3 +14,15 @@ Research papers will be split into subdirectories, largely ordered by publicatio
 └── paper.pdf
 ```
 where the research paper itself is `paper.pdf`, the implementation (generally in PyTorch) found in `model.py`, and my personal analysis, explanation, and summarization found in `breakdown.md`.
+
+## Progress
+
+### Implemented
+|Paper|Authors|Publication Year
+|:--|:--|:--
+
+### Planned
+|Paper|Authors|Publication Year|Started|
+|:--|:--|:--|:--
+**Pointer Networks** |_Oriol Vinyals, Meire Fortunato, Navdeep Jaitly_ | 2017 | <ul><li>[ ] </li></ul>
+**Sequence to Sequence Learning with Neural Networks** | _Ilya Sutskever, Oriol Vinyals, Quoc V. Le_ | 2014 | <ul><li>[ ] </li></ul>
